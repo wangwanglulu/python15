@@ -1,0 +1,34 @@
+{
+  "autoplayTransitionDelay" : 5,
+  "author" : "",
+  "timestamp" : "2018-46-25 13:5:4",
+  "loopSlideshow" : 0,
+  "filename" : "Untitled 3",
+  "autoplayBuildDelay" : 2,
+  "comment" : "",
+  "title" : "Untitled 3",
+  "showMode" : 0,
+  "creator" : "Apple Keynote 8.0.1",
+  "slideList" : [
+    "9AD6F9A9-6C1E-4DA5-AABA-AA42CC700087"
+  ],
+  "soundtrack" : {
+    "mode" : 0,
+    "volume" : 1
+  },
+  "slideWidth" : 1920,
+  "slideHeight" : 1080,
+  "slideCount" : 1,
+  "majorVersion" : 1,
+  "minorVersion" : 2,
+  "fonts" : [
+    "Helvetica-Light",
+    "HelveticaNeue-Light",
+    "HelveticaNeue",
+    "HelveticaNeue-Bold",
+    "HelveticaNeue-Italic",
+    "Helvetica",
+    "GillSans",
+    "HelveticaNeue-Medium"
+  ]
+}
